@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function callfunc() {
+function functionName() {
 	const msg=arguments.callee.name;
     // console.log(msg)
 	alert(msg);
