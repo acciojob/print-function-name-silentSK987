@@ -4,4 +4,4 @@ function functionName() {
     // console.log(msg)
 	alert(msg);
 }
-callfunc();
+functionName();
