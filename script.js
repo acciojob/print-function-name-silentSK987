@@ -1,7 +1,4 @@
-//your JS code here. If required.
-function functionName() {
-	const msg=arguments.callee.name;
-    // console.log(msg)
-	alert(msg);
+function functionName(){
+	alert(arguments.callee.name);
 }
-functionName();
+functionName()
